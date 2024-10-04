@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Vivek Katkar! 👋
 
-<!--
-**imvk15/imvk15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Pentester** with experience in **Linux Environment**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **New Pentesting tools**
+- 🔭 Working on: **AI based NIDS**
+- 🌍 Languages: **English, Marathi, Hindi**
+- 📫 How to reach me: **vivekjkatkar01@gmail.com**
+- ⚡ Fun fact: **Professionally Cybersecurist, Passionately Athlete.**
+
+## My Skills 🧠
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Get in Touch 📬
+
+- **LinkedIn** (https://www.linkedin.com/in/vivek-katkar15)
